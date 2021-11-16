@@ -1,0 +1,931 @@
+{
+  "mode": "peaceful",
+  "entities": [
+    {
+      "isCollectible": false,
+      "x": 0,
+      "y": 0,
+      "id": "0-0-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 1,
+      "y": 0,
+      "id": "1-0-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 2,
+      "y": 0,
+      "id": "2-0-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 3,
+      "y": 0,
+      "id": "3-0-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 4,
+      "y": 0,
+      "id": "4-0-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 5,
+      "y": 0,
+      "id": "5-0-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 6,
+      "y": 0,
+      "id": "6-0-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 7,
+      "y": 0,
+      "id": "7-0-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 8,
+      "y": 0,
+      "id": "8-0-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 9,
+      "y": 0,
+      "id": "9-0-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 10,
+      "y": 0,
+      "id": "10-0-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 11,
+      "y": 0,
+      "id": "11-0-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 12,
+      "y": 0,
+      "id": "12-0-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 13,
+      "y": 0,
+      "id": "13-0-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 14,
+      "y": 0,
+      "id": "14-0-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 15,
+      "y": 0,
+      "id": "15-0-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 16,
+      "y": 0,
+      "id": "16-0-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 17,
+      "y": 0,
+      "id": "17-0-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 0,
+      "y": 1,
+      "id": "0-1-wall",
+      "type": "wall"
+    },
+    {
+      "invincibilityTime": 0,
+      "isCollectible": false,
+      "invincible": false,
+      "x": 1,
+      "y": 1,
+      "invisible": false,
+      "id": "1-1-player",
+      "type": "player",
+      "inventory": []
+    },
+    {
+      "isCollectible": true,
+      "x": 6,
+      "y": 1,
+      "id": "6-1-sword",
+      "type": "sword"
+    },
+    {
+      "isCollectible": false,
+      "x": 17,
+      "y": 1,
+      "id": "17-1-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 0,
+      "y": 2,
+      "id": "0-2-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 3,
+      "y": 2,
+      "id": "3-2-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 6,
+      "y": 2,
+      "id": "6-2-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 7,
+      "y": 2,
+      "id": "7-2-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 8,
+      "y": 2,
+      "id": "8-2-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 9,
+      "y": 2,
+      "id": "9-2-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 12,
+      "y": 2,
+      "id": "12-2-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 13,
+      "y": 2,
+      "id": "13-2-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 14,
+      "y": 2,
+      "id": "14-2-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 15,
+      "y": 2,
+      "id": "15-2-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 17,
+      "y": 2,
+      "id": "17-2-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 0,
+      "y": 3,
+      "id": "0-3-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 3,
+      "y": 3,
+      "id": "3-3-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 4,
+      "y": 3,
+      "id": "4-3-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 15,
+      "y": 3,
+      "id": "15-3-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 17,
+      "y": 3,
+      "id": "17-3-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 0,
+      "y": 4,
+      "id": "0-4-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 8,
+      "y": 4,
+      "id": "8-4-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": true,
+      "x": 13,
+      "y": 4,
+      "id": "13-4-bomb",
+      "type": "bomb"
+    },
+    {
+      "isCollectible": false,
+      "x": 17,
+      "y": 4,
+      "id": "17-4-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 0,
+      "y": 5,
+      "id": "0-5-wall",
+      "type": "wall"
+    },
+    {
+      "ally": false,
+      "isCollectible": false,
+      "x": 3,
+      "y": 5,
+      "id": "3-5-mercenary",
+      "type": "mercenary"
+    },
+    {
+      "isCollectible": false,
+      "x": 8,
+      "y": 5,
+      "id": "8-5-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 17,
+      "y": 5,
+      "id": "17-5-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 0,
+      "y": 6,
+      "id": "0-6-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 6,
+      "y": 6,
+      "id": "6-6-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 8,
+      "y": 6,
+      "id": "8-6-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 9,
+      "y": 6,
+      "id": "9-6-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 13,
+      "y": 6,
+      "id": "13-6-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 17,
+      "y": 6,
+      "id": "17-6-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 0,
+      "y": 7,
+      "id": "0-7-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 6,
+      "y": 7,
+      "id": "6-7-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 12,
+      "y": 7,
+      "id": "12-7-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 13,
+      "y": 7,
+      "id": "13-7-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 17,
+      "y": 7,
+      "id": "17-7-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 0,
+      "y": 8,
+      "id": "0-8-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 3,
+      "y": 8,
+      "id": "3-8-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 4,
+      "y": 8,
+      "id": "4-8-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 5,
+      "y": 8,
+      "id": "5-8-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 6,
+      "y": 8,
+      "id": "6-8-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 8,
+      "y": 8,
+      "id": "8-8-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 9,
+      "y": 8,
+      "id": "9-8-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 10,
+      "y": 8,
+      "id": "10-8-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 13,
+      "y": 8,
+      "id": "13-8-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 17,
+      "y": 8,
+      "id": "17-8-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 0,
+      "y": 9,
+      "id": "0-9-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 9,
+      "y": 9,
+      "id": "9-9-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 13,
+      "y": 9,
+      "id": "13-9-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 14,
+      "y": 9,
+      "id": "14-9-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 17,
+      "y": 9,
+      "id": "17-9-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 0,
+      "y": 10,
+      "id": "0-10-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 3,
+      "y": 10,
+      "id": "3-10-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 5,
+      "y": 10,
+      "id": "5-10-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 6,
+      "y": 10,
+      "id": "6-10-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": true,
+      "x": 7,
+      "y": 10,
+      "id": "7-10-treasure",
+      "type": "treasure"
+    },
+    {
+      "doorClosed": true,
+      "isCollectible": false,
+      "x": 15,
+      "y": 9,
+      "id": "15-9-door",
+      "type": "door",
+      "key": 1
+    },
+    {
+      "doorClosed": true,
+      "isCollectible": false,
+      "x": 4,
+      "y": 10,
+      "id": "4-10-door",
+      "type": "door",
+      "key": 2
+    },
+    {
+      "isCollectible": true,
+      "x": 11,
+      "y": 10,
+      "id": "11-10-key",
+      "type": "key",
+      "key": 1
+    },
+    {
+      "isCollectible": true,
+      "x": 12,
+      "y": 10,
+      "id": "12-10-key",
+      "type": "key",
+      "key": 2
+    },
+    {
+      "isCollectible": true,
+      "x": 11,
+      "y": 11,
+      "id": "11-11-wood",
+      "type": "wood"
+    },
+    {
+      "isCollectible": true,
+      "x": 11,
+      "y": 12,
+      "id": "11-12-wood",
+      "type": "wood"
+    },
+    {
+      "isCollectible": true,
+      "x": 11,
+      "y": 13,
+      "id": "11-13-arrow",
+      "type": "arrow"
+    },
+    {
+      "isCollectible": true,
+      "x": 11,
+      "y": 14,
+      "id": "11-14-arrow",
+      "type": "arrow"
+    },
+    {
+      "isCollectible": true,
+      "x": 12,
+      "y": 14,
+      "id": "12-14-arrow",
+      "type": "arrow"
+    },
+    {
+      "isCollectible": true,
+      "x": 13,
+      "y": 14,
+      "id": "13-14-wood",
+      "type": "wood"
+    },
+    {
+      "isCollectible": false,
+      "x": 17,
+      "y": 10,
+      "id": "17-10-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 0,
+      "y": 11,
+      "id": "0-11-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 3,
+      "y": 11,
+      "id": "3-11-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 6,
+      "y": 11,
+      "id": "6-11-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 8,
+      "y": 11,
+      "id": "8-11-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 9,
+      "y": 11,
+      "id": "9-11-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 10,
+      "y": 11,
+      "id": "10-11-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 12,
+      "y": 11,
+      "id": "12-11-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 17,
+      "y": 11,
+      "id": "17-11-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 0,
+      "y": 12,
+      "id": "0-12-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 3,
+      "y": 12,
+      "id": "3-12-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 9,
+      "y": 12,
+      "id": "9-12-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 12,
+      "y": 12,
+      "id": "12-12-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 17,
+      "y": 12,
+      "id": "17-12-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 0,
+      "y": 13,
+      "id": "0-13-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 3,
+      "y": 13,
+      "id": "3-13-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 4,
+      "y": 13,
+      "id": "4-13-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 5,
+      "y": 13,
+      "id": "5-13-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 12,
+      "y": 13,
+      "id": "12-13-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 13,
+      "y": 13,
+      "id": "13-13-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 14,
+      "y": 13,
+      "id": "14-13-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 17,
+      "y": 13,
+      "id": "17-13-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 0,
+      "y": 14,
+      "id": "0-14-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 17,
+      "y": 14,
+      "id": "17-14-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 0,
+      "y": 15,
+      "id": "0-15-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 1,
+      "y": 15,
+      "id": "1-15-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 2,
+      "y": 15,
+      "id": "2-15-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 3,
+      "y": 15,
+      "id": "3-15-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 4,
+      "y": 15,
+      "id": "4-15-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 5,
+      "y": 15,
+      "id": "5-15-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 6,
+      "y": 15,
+      "id": "6-15-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 7,
+      "y": 15,
+      "id": "7-15-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 8,
+      "y": 15,
+      "id": "8-15-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 9,
+      "y": 15,
+      "id": "9-15-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 10,
+      "y": 15,
+      "id": "10-15-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 11,
+      "y": 15,
+      "id": "11-15-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 12,
+      "y": 15,
+      "id": "12-15-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 13,
+      "y": 15,
+      "id": "13-15-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 14,
+      "y": 15,
+      "id": "14-15-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 15,
+      "y": 15,
+      "id": "15-15-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 16,
+      "y": 15,
+      "id": "16-15-wall",
+      "type": "wall"
+    },
+    {
+      "isCollectible": false,
+      "x": 17,
+      "y": 15,
+      "id": "17-15-wall",
+      "type": "wall"
+    }
+  ],
+  "width": 18,
+  "name": "advanced-2",
+  "goal-condition": {
+    "goal": "AND",
+    "subgoals": [
+      {"goal": "enemies"},
+      {"goal": "treasure"}
+    ]
+  },
+  "id": "advanced-2-b9345b1e-020f-43bb-b3c2-b6d3aada3c50",
+  "tick": 0,
+  "height": 16
+}

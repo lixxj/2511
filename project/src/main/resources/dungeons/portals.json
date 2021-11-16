@@ -1,0 +1,48 @@
+{
+    "entities": [
+        {
+            "x": 25,
+            "y": 24,
+            "type": "anduril"
+        },
+        {
+            "x": 10,
+            "y": 24,
+            "type": "armour"
+        },
+        {
+            "x": 11,
+            "y": 24,
+            "type": "sun_stone"
+        },
+        {
+            "x": 12,
+            "y": 24,
+            "type": "treasure"
+        },
+        {
+            "x": 13,
+            "y": 24,
+            "type": "wood"
+        },
+        {
+            "x": 25,
+            "y": 25,
+            "type": "player"
+        },
+        {
+            "x": 26,
+            "y": 25,
+            "type": "portal",
+            "colour": "BLUE"
+        },
+        {
+            "x": 24,
+            "y": 25,
+            "type": "portal",
+            "colour": "BLUE"
+        }
+    ],
+    "width": 50,
+    "height": 50
+}

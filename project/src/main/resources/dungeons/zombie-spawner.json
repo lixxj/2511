@@ -1,0 +1,21 @@
+{
+  "entities": [
+    {
+      "x": 0,
+      "y": 0,
+      "type": "player"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "type": "sword"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "type": "zombie_toast_spawner"
+    }
+  ],
+  "width": 50,
+  "height": 50
+}
