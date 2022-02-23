@@ -1,0 +1,2 @@
+### How would you write tests for Game with the default constructor that prove the battle function works as expected?
+Knowing that the default constructor for the Game class using the current time stamp, tests would be dependent on their execution time. Possible implementations may include trigger tests at a given future time stamp (i.e. setting time explicitly to maintain the deterministic nature of tests). Specifying time tags would help ensure that the system time is simulated. 
