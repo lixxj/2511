@@ -290,7 +290,7 @@ If you do not make a submission tag, we will take the last commit on your master
 
 Like any real-world programming scenario, the requirements you need to develop to will evolve.
 
-[**You can view the updated requirements for Milestone 3 here**](M3.md).
+* Please see M3.md *
 
 In this Milestone, you are expected to:
 
