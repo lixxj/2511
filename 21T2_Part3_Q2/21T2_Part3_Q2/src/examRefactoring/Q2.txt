@@ -1,0 +1,11 @@
+===============
+Design Smells
+===============
+
+- Poor extensibility of design --> switch case --> design smell: open-closed principle is broken
+since the checkout system must be modified everytime a supermarket is added
+    - implement strategy pattern for SupermarketCheckoutSystem --> subclasses include
+    Woolies and Coles --> polymorphism 
+- Long checkout method --> implement template pattern to separate hook methods (critical sections that
+change based on supermarket)
+
