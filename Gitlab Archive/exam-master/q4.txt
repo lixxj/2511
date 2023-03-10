@@ -1,0 +1,4 @@
+The push implementation of the Observer Pattern is present in the scenario.
+In the scenario, the release of tickets is an observable and Webster and other people are observers.
+Webster has setup notifications on his phone, so he can get this information directly when the observable object notify all the subscribed observers.
+Therefore, this is push implementation.

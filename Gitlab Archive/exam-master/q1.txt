@@ -1,0 +1,9 @@
+Part A
+i. should if (obj == null) first to avoid NullPointerException
+
+ii. assertEquals(false, null)
+
+Part B
+i. Removing the number from numbers list when iterating through the list throws throws java.util.ConcurrentModificationException
+
+ii. assertEquals(<2, 4>, f(<1, 2, 3, 4>)) would catch the error

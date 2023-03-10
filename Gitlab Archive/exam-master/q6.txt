@@ -1,0 +1,4 @@
+The Liskov Substitution Principle points out that the preconditions of a base class must not be strengthened by a subclass, and the postconditions must not be weakened in subclasses.
+Therefore, "breaking the preconditions and postconditions" means the precondition of a subclass is strengthened or the postcondition of a subclass is weakened.
+An example: a subclass of Position class with precondition of int layer > 1 would break the LSP since it strengths the precondition, and the objects of superclass Position are no longer replaceable with subclass objects.
+The code would not compile and it would affect the automarking.

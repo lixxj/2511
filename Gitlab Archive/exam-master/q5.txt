@@ -1,0 +1,7 @@
+Part A 
+The code smell is Duplicate Code, the 2 update code block are very similar.
+This could be indicative of an underlying design problem, the inheritance between superclass and subclass might be a bad design since the update process can be done in the same loop for different subclasses of Satellites.
+
+Part B 
+The code smell is Long Parameter List, there are too many parameters for the method, which potentially makes the method a Long Method code smell, it also violates the Single Responsibility Principle.
+Don't have enough information to tell design problem.

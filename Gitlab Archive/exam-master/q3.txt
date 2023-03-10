@@ -1,0 +1,4 @@
+Factory Method Pattern could be used to model this.
+Factory Method Pattern is a creational pattern so it can be used to create projects in the scenario.
+In the scenario a Jira board has several subtypes (Scrum, Kanban and Bug Tracking), Factory Method Pattern can provide an interface to create these objects and alters the type of objects that will be created.
+Once the object is created as one of the subclass object, it can not be changed.

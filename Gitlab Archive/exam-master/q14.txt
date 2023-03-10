@@ -1,0 +1,18 @@
+a) Code Analysis (5 marks)
+Look at the code inside the gitlab package and in q14.txt answer the following questions:
+
+i. Explain what Design Pattern is being used to represent the system, and how the domain relates to the key characteristics of the pattern. (2 marks)
+Composite pattern is being used to represent the system
+GitlabProject and GitlabGroup implements a GitlabPermissionsNode interface, which is a inheritance relationship.
+    
+ii. Identify what you think is the main design problem present in the existing code, including what smells are indicating the problem. (2 marks)
+GitlabTest class and GitlabProject class have high coupling between each other.
+Although they are different subclasses.
+    
+iii. Which of the following design smells is also present in the code? (1 mark)
+    Divergent Change
+    Inappropriate Intimacy
+    Refused Bequest
+    Message Chains
+
+Message Chains is also present in the code.

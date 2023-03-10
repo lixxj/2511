@@ -1,0 +1,6 @@
+Part A
+b, c, e
+
+Part B 
+Angle class has better cohesion, because the degree to which the methods and data inside Angle class belong together is higher than the MathHelper class.
+Which means the strength of relationship between the Angle class's methods and data is stronger than the MathHelper class.

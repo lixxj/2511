@@ -1,0 +1,6 @@
+a.
+State Pattern, Strategy Pattern, Composite Pattern
+
+b. Pick one of the design patterns and describe the how the implementation relates to the key characteristics of the design pattern. (2 marks)
+State pattern is a behavioral design pattern that lets an object change its behavior when the internal state changes. 
+In the given scenario, there are several different states for the CanvasController (CanvasActionState, SimpleState, PaintingState, ...), and these states behave differently and the states are changing frequently.

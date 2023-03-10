@@ -1,0 +1,10 @@
+All software development is maintenance.
+
+The statement above is not 100% accurate because software development also contains design and implementation.
+In the project, we need to identify the problem domain first by fully understand the specification.
+Secondly, we need to do domain modelling and design the project.
+Thirdly, we need to write the actual implementation for our design.
+And finally, maintenance are required to fix bugs and do the refactoring.
+If there is a good design and implementation, the cost of maintenance could be low.
+The software development life cycle also states that there are several stages and maintenance is one of them.
+Therefore it is not accurate to say all software development is maintenance.
